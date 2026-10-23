@@ -1,4 +1,5 @@
-# financial-fraud-analysis-sql-powerbi
+# Financial Fraud Analysis 
+![Image](https://github.com/rtrahulthapa9-byte/financial-fraud-analysis-sql-powerbi/blob/5b8b471a1b2a6ece4f66635a7715c23a2634e9da/Image%201.png)
 
 ### Project Overview
 
@@ -22,7 +23,8 @@ Created a database in PostgreSQL and imported the dataset into it to perform SQL
 
 Additionally, I used Power Query to clean, transform, and prepare the dataset for analysis. I then imported the prepared data into Power BI and established relationships between the tables using data modeling and create **date table** to support accurate analysis and interactive dashboard development.
 
-Data modeling image
+![Image](https://github.com/rtrahulthapa9-byte/financial-fraud-analysis-sql-powerbi/blob/05d11d299c94d9e217542e5fd200c36586faa5be/Data%20model.png)
+
 
 In Dashboard i build Four KPI’s (Fraud Rate%, Fraud Loss Value, Fraud Prevention Rate, Average Transaction Value) and 10 Visuals and 3 Tables
 
